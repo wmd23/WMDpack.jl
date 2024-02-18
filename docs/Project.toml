@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+WmdPack = "5365dd67-1420-4197-a1a7-38c33181b5f9"

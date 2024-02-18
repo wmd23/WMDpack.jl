@@ -1,0 +1,13 @@
+name = "WmdPack"
+uuid = "5365dd67-1420-4197-a1a7-38c33181b5f9"
+authors = ["wmd23 <202110892@uesb.edu.br> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
